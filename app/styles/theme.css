@@ -94,11 +94,13 @@
   --oui-spacing-xl: 33.75rem;
 }
 
-html, body {
-  font-family: 'Manrope', sans-serif !important;
-  font-size: 16px !important;
-}
 
 body>div.oui-scaffold-root.oui-font-semibold.oui-text-base-contrast.oui-bg-base-10.oui-flex.oui-flex-col.oui-overflow-auto.oui-custom-scrollbar>div.oui-box.oui-scaffold-footer.oui-w-full.oui-bg-base-10.oui-fixed.oui-bottom-0.oui-z-50.oui-border-t-\[1px\].oui-border-line-12>div>div.oui-box.oui-flex.oui-flex-row.oui-items-center.oui-justify-start.oui-flex-nowrap.oui-gap-1 {
   display: none;
+}
+
+
+html, body {
+  font-family: 'Manrope', sans-serif !important;
+  font-size: 16px !important;
 }
