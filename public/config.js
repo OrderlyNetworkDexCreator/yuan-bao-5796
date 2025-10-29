@@ -1,5 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "novax",
   "VITE_ORDERLY_BROKER_NAME": "Yuan Bao",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "true",
@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/yuanbao_meme",
   "VITE_SEO_SITE_NAME": "YuanBaoDEX",
   "VITE_SEO_SITE_DESCRIPTION": "",
-  "VITE_SEO_SITE_URL": "https://yuanbao.meme",
+  "VITE_SEO_SITE_URL": "https://dex.novax.meme",
   "VITE_SEO_SITE_LANGUAGE": "zh",
   "VITE_SEO_SITE_LOCALE": "zh_CN",
   "VITE_SEO_TWITTER_HANDLE": "@yuanbao_meme",
