@@ -17,7 +17,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "NovaX is a Comprehensive Cryptocurrency Platform that integrates #MEME #Launchpad. Decentralized Exchange ( #DEX ), and Quantitative Trading system and open to everyone.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Markets,Rewards,Portfolio,Vaults",
+  "VITE_ENABLED_MENUS": "Trading,Markets,Rewards",
   "VITE_CUSTOM_MENUS": "SWAP, https://swap.novax.meme; Farm, https://farm.novax.meme; Launchpad, https://launch.novax.meme; AI prediction, https://ai.novax.meme",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://dex.orderly.network/",
