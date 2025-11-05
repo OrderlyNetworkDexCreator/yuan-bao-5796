@@ -102,3 +102,7 @@ html, body {
 .oui-scaffold-footer-powered-by { 
   display: none; 
 }
+
+div[role="dialog"] svg { 
+  display: none !important; 
+}
