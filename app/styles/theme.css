@@ -99,6 +99,6 @@ html, body {
   font-size: 16px !important;
 }
 
-#portfolio-apikey-manager>div.oui-card-content.oui-pt-4>div.oui-box.oui-size-width.oui-flex.oui-flex-col.oui-items-center.oui-justify-start.oui-flex-nowrap.oui-gap-4.oui-font-semibold>div.oui-box.oui-size-width.oui-flex.oui-flex-row.oui-items-center.oui-justify-start.oui-flex-nowrap.oui-text-sm.oui-border-b-2.oui-border-line-6.oui-pb-4>div.oui-box.oui-size-width.oui-flex.oui-flex-col.oui-items-start.oui-justify-start.oui-flex-nowrap.oui-gap-1>div { 
+.oui-scaffold-footer-powered-by { 
   display: none; 
 }
