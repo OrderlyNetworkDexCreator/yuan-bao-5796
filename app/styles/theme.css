@@ -114,3 +114,8 @@ div[role="dialog"] svg {
 #radix-\:r4d\:-trigger-Liquidation>span>div>button>svg { 
   display: none !important; 
 }
+
+/* Hide Fee tier menu item by matching the SVG path */ 
+li:has(button svg path[d*="M5.99829 1.51062"]) { 
+  display: none !important; 
+}
