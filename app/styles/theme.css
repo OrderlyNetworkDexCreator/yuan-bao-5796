@@ -119,3 +119,8 @@ div[role="dialog"] svg {
 li:has(button svg path[d*="M5.99829 1.51062"]) { 
   display: none !important; 
 }
+
+/* Hide info icon SVG only in elements with role="tab" */ 
+[role="tab"] svg:has(path[d*="M7.99925 1.84277C4.31738 1.84277"]) { 
+  display: none !important; 
+}
