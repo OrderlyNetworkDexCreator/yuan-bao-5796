@@ -19,7 +19,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Markets,Rewards,Portfolio",
-  "VITE_CUSTOM_MENUS": "SWAP, https://swap.novax.meme; Farm, https://farm.novax.meme; Launchpad, https://launch.novax.meme; AI prediction, https://ai.novax.meme",
+  "VITE_CUSTOM_MENUS": "SWAP, https://swap1.novax.meme; Farm, https://farm.novax.meme; Launchpad, https://launch.novax.meme; AI prediction, https://ai.novax.meme; NFT, https://nft.novax.meme",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/novaxmeme",
